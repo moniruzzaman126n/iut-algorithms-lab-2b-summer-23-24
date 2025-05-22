@@ -44,7 +44,7 @@ Each **Lab** folder contains multiple **Task** folders. Each **Task** folder con
 
 - Clone the repository (first time):
   ```bash
-  git clone https://github.com/ir-rafio/iut-algorithms-lab-2a-summer-23-24
+  git clone https://github.com/moniruzzaman126n/iut-algorithms-lab-2b-summer-23-24  
   ```
 - Or pull the latest changes (if already cloned):
   ```bash

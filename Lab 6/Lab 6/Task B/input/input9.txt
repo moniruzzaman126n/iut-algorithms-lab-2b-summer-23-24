@@ -1,5 +1,0 @@
-4 5
-cbcde
-abcde
-dbcde
-bbcde
